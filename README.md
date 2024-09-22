@@ -1,5 +1,4 @@
 <h3 align="center">Dominus vobiscum!! My name is Yosua Gerrard Ferdinand</h3>
-<div align="center"><img src="https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg" height="20%"></div>
 <p></p>
 
 <br>
