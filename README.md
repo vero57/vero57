@@ -5,10 +5,13 @@
 <div align="center"><img src="https://i.pinimg.com/originals/d6/a4/6f/d6a46fbe47e49c95db41a0ef0cb83808.gif"></div>
 
 
+### About me
 🏫 I'm a student of SMKN 1 Cibinong <br>
 🌱 I’m currently learning React Js, Java, Laravel, Lua <br>
 ✌️ My favorite programming languages JavaScript, Python, Java, Lua <br> 
 😒 I hate Roblox Studio, all about game development. But i still love to learn <br>
+<p>I’m a student learning to code on my own. If you think I learned from a teacher? Ain’t no way, bruh💀💀. I learned everything from YOUTUBE.
+</p>
 
 
 
