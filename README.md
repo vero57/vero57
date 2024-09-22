@@ -2,7 +2,7 @@
 ========================================================================================================================================================================================
 <br>
 
-<div align="center"><img src="https://i.pinimg.com/originals/25/ed/7d/25ed7ddeae36fdc5d67a38aaf458fefa.gif"></div>
+<div align="center"><img src="https://i.pinimg.com/originals/25/ed/7d/25ed7ddeae36fdc5d67a38aaf458fefa.gif](https://i.pinimg.com/originals/e2/70/5c/e2705cac658a05204c47af50f0e0882c.gif"></div>
 
 
 🏫 I'm a student of SMKN 1 Cibinong <br>
