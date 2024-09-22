@@ -14,12 +14,7 @@
 <p>I’m a student learning to code on my own. If you think I learned from a teacher? Ain’t no way, bruh💀💀. I learned everything from YOUTUBE.
 </p>
 
-
-
-
-
-
-### My Skills
+### My love
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,6 +41,15 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+
+
+### How to reach me
+<div align="center">
+  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+  <p>constantineero</p> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+</div>
 <!--
 **vero57/vero57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
