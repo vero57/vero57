@@ -11,7 +11,7 @@
 🌱 I’m currently learning React Js, Java, Laravel, Lua <br>
 ✌️ My favorite programming languages JavaScript, Python, Java, Lua <br> 
 😒 I hate Roblox Studio, all about game development. But i still love to learn <br>
-<p>I’m a student learning to code on my own. If you think I learned from a teacher? Ain’t no way, bruh💀💀. I learned everything from YOUTUBE.
+<p>I’m a student learning to code on my own. I learned everything from YOUTUBE.
 </p>
 
 ### My love
