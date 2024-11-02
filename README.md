@@ -8,7 +8,6 @@
 
 ### About me
 🏫 I'm a student of SMKN 1 Cibinong <br>
-🌱 I’m currently learning<br>
 ✌️ My favorite programming languages JavaScript, Python, Java, Lua <br> 
 😒 I hate Roblox Studio, all about game development. But i still love to learn <br>
 <p>I’m a student learning to code on my own. I learned everything from YOUTUBE.</p>
