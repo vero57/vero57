@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! 👋 I'm Yosua Gerrard Ferdinand</h2>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWcyMzZ5YzhjeHFlcGtyZ2E3c3J4cWlrMmw3a3dndTRmaDNwbTZyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Z5kstwARnPna/giphy.gif" alt="Coding GIF" width="500">
+  <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" alt="Coding GIF" width="500">
 </div>
 
 ---
