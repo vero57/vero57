@@ -10,17 +10,19 @@
 - 🎓 Student at **SMKN 1 Cibinong**
 - 💻 Passionate about **Game Development & Software Engineering**
 - 📖 Self-taught programmer (Thanks, **YouTube**! 📺)
-- 🔥 Love exploring **JavaScript, Python, Java, and Lua**
+- 🔥 Love exploring **JavaScript, Dart, Java, and PHP**
 
 ---
 
 ### 🛠️ Tech Stack & Experience
-#### **Languages & Frameworks:**
+#### **Languages:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-556096?logo=php&logoColor=white&style=for-the-badge)
+
 
 #### **Web Development:**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -28,21 +30,24 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-f04235?logo=laravel&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-556096?logo=php&logoColor=white&style=for-the-badge)
+
 
 #### **Mobile Development:**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-#### **Databases & DevOps:**
+#### **Databases:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
 ### 🎯 Currently Learning
-- **Game Development** 🎮 (Exploring Unity, Unreal Engine, Godot Engine & Roblox Studio)
-- **Web Development** 🌐 (Improving React, Next.js, Laravel)
+- **Game Development** 🎮 (Exploring Unity, Unreal Engine, Godot Engine, Roblox Studio, 3d Modeling with Blender)
+- **Web Development** 🌐 (Improving React, Next.js, Laravel, Databases)
 - **Mobile Development** 📱 (Building apps with Flutter & Dart)
 
 ---
