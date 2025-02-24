@@ -55,12 +55,9 @@
 ---
 
 ### 📬 Connect With Me!
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-lululeley
-<span title="yosuagerrad@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</span>
-yosuagerrad@gmail.com
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-@yosuagerrard_
+Discord: lululeley
+Gmail: yosuagerrad@gmail.com
+Instagram: @yosuagerrard_
 
 ---
 
