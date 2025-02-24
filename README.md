@@ -55,9 +55,9 @@
 ---
 
 ### 📬 Connect With Me!
-Discord: lululeley
-Gmail: yosuagerrad@gmail.com
-Instagram: @yosuagerrard_
+- Discord: lululeley
+- Gmail: yosuagerrad@gmail.com
+- Instagram: @yosuagerrard_
 
 ---
 
