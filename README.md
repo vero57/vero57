@@ -9,7 +9,7 @@
 ### 🚀 About Me
 - 🎓 Student at **SMKN 1 Cibinong**
 - 💻 Passionate about **Game Development & Software Engineering**
-- 📖 Self-taught programmer (Thanks, **YouTube**! 📺)
+- 📚 Self-taught programmer (Thanks, **YouTube**! 📺)
 - 🔥 Love exploring **JavaScript, Dart, Java, and PHP**
 
 ---
@@ -24,7 +24,6 @@
 ![PHP](https://img.shields.io/badge/PHP-556096?logo=php&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
-
 #### **Web Development:**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -33,7 +32,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
 
 #### **Mobile Development:**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -46,8 +44,16 @@
 
 ---
 
+### 🔢 Languages Graph
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vero57&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2"
+       style="width: 50%; height: auto;" alt="languages graph" />
+</div>
+
+---
+
 ### 🎯 Currently Learning
-- **Game Development** 🎮 (Exploring Unity, Unreal Engine, Godot Engine, Roblox Studio, 3d Modeling with Blender)
+- **Game Development** 🎮 (Exploring Unity, Unreal Engine, Godot Engine, Roblox Studio, 3D Modeling with Blender)
 - **Web Development** 🌐 (Improving React, Next.js, Laravel, Databases)
 - **Mobile Development** 📱 (Building apps with Flutter & Dart)
 
@@ -63,9 +69,5 @@
 🚀 Always open to collaborating on exciting projects! Let's build something amazing together. 😃
 
 
-<div align="center">
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vero57&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" 
-       style="width: 50%; height: auto;" alt="languages graph" />
-</div>
+
 
