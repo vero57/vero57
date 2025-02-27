@@ -64,4 +64,5 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vero57&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vero57)](https://github.com/vero57/github-readme-stats)
 
