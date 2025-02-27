@@ -62,3 +62,6 @@
 
 🚀 Always open to collaborating on exciting projects! Let's build something amazing together. 😃
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vero57&theme=dark)](https://git.io/streak-stats)
+
