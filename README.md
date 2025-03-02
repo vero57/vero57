@@ -15,6 +15,8 @@ Currently, I'm diving deeper into JavaScript, Dart, Java, and PHP, constantly pu
 
 ---
 
+
+
 ### 🛠️ Tech Stack & Experience
 #### **Languages:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -64,6 +66,13 @@ Currently, I'm diving deeper into JavaScript, Dart, Java, and PHP, constantly pu
 - Discord: lululeley
 - Gmail: yosuagerrad@gmail.com
 - Instagram: @yosuagerrard_
+
+---
+
+### 😹 Honorable Mention
+<div align="center" style="width: 10;">
+  <img src="https://i.imgur.com/Jdx8op0.png" alt="foto"  width="45%">
+</div>
 
 ---
 
