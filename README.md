@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-Hey everyone! I'm Yosua Gerrard Ferdinand, a student at SMKN 1 Cibinong with a deep passion for Game Development & Software Engineering. Thanks to modern technology—especially YouTube (big shoutout! 📺)—I've been able to teach myself programming and explore the world of development.
+Hey everyone! I'm Yosua Gerrard Ferdinand, a student at SMKN 1 Cibinong with a deep passion for Game Development & Software Engineering. Thanks to modern technology, especially YouTube (big shoutout! 📺). I've been able to teach myself programming and explore the world of development.
 
 Currently, I'm diving deeper into JavaScript, Dart, Java, and PHP, constantly pushing my skills to the next level. One of my proudest experiences was participating in the 40 Game Project, where I contributed alongside other talented developers. I'm always eager to learn, build, and create something awesome!
 
@@ -50,7 +50,7 @@ Currently, I'm diving deeper into JavaScript, Dart, Java, and PHP, constantly pu
 ### 🔢 Languages Graph
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%; height: 100px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vero57&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2"
-       style="width: 50%; height: auto;" alt="languages graph" />
+       style="width: 80%; height: auto;" alt="languages graph" />
 </div>
 
 ---
