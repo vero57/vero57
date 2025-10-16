@@ -49,7 +49,7 @@ Currently, I'm diving deeper into JavaScript, Dart, Java, and PHP, constantly pu
 
 I've had a few cool gigs that let me put these skills to use:
 
-* **Semi-Full Stack Frontender at PT Binar Insightful Indonesia:** I spent a year rocking the frontend, mostly with **Laravel** as the main framework. Honestly, sometimes I had to sneak into the backend when needed—so yeah, you could call me a **semi-full stack** dev! 😜
+* **Semi-Full Stack Frontender at PT Berbinar Insightful Indonesia:** I spent a year rocking the frontend, mostly with **Laravel** as the main framework. Honestly, sometimes I had to sneak into the backend when needed—so yeah, you could call me a **semi-full stack** dev! 😜
 * **Game Dev Contractor for Solu Filantropi Teknologi:** I got a 4-month contract to build an **educational game** using **Flutter** and **Dart**. It was a blast turning learning into something fun and interactive.
 * **Personal Projects:** I have a bunch of cool **personal portfolio projects** I've been working on, which you guys can totally check out!
 
