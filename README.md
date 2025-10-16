@@ -45,6 +45,16 @@ Currently, I'm diving deeper into JavaScript, Dart, Java, and PHP, constantly pu
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+#### **What I've Been Up To! 🧑‍💻**
+
+I've had a few cool gigs that let me put these skills to use:
+
+* **Semi-Full Stack Frontender at PT Binar Insightful Indonesia:** I spent a year rocking the frontend, mostly with **Laravel** as the main framework. Honestly, sometimes I had to sneak into the backend when needed—so yeah, you could call me a **semi-full stack** dev! 😜
+* **Game Dev Contractor for Solu Filantropi Teknologi:** I got a 4-month contract to build an **educational game** using **Flutter** and **Dart**. It was a blast turning learning into something fun and interactive.
+* **Personal Projects:** I have a bunch of cool **personal portfolio projects** I've been working on, which you guys can totally check out!
+
+Honestly, I'm still on the journey to leveling up my skills every single day. So, seriously, hit me up! I'm always down to **collaborate** on a project or just **learn together**!
+
 ---
 
 ### 🔢 Languages Graph
