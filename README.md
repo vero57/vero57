@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! 👋 I'm Yosua Gerrard Ferdinand</h2>
 
 <div align="center">
-  <img src="https://i.imgur.com/wJQXAqy.png" alt="banner">
+  <img src="https://i.imgur.com/HtDo3o6.png" alt="banner">
 </div>
 
 
