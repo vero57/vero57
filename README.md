@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-Hey everyone! I'm Yosua Gerrard Ferdinand, a student at Politeknik Negeri Bali with a deep passion for Game Development & Software Engineering. Thanks to modern technology, especially YouTube (big shoutout! 📺). I've been able to teach myself programming and explore the world of development.
+Hey everyone! I'm Yosua Gerrard Ferdinand, a ordinary guy with a deep passion for Game Development & Software Engineering. Thanks to modern technology, especially YouTube (big shoutout! 📺). I've been able to teach myself programming and explore the world of development.
 
 Currently, I'm diving deeper into JavaScript, Dart, Java, and PHP, constantly pushing my skills to the next level. One of my proudest experiences was participating in the 40 Game Project, where I contributed alongside other talented developers. I'm always eager to learn, build, and create something awesome!
 
