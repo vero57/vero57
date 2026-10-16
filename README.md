@@ -1,93 +1,103 @@
-<h2 align="center">Hey there! 👋 I'm Yosua Gerrard Ferdinand</h2>
+# Hey, I'm Yosua 👋
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/ea/cf/f0/eacff0f52757ab53db3e686d2d13f406.jpg" alt="banner">
-</div>
+### Software Developer · Web & Mobile Applications · DevOps Enthusiast
 
+I build web applications, mobile apps, and tools that solve real problems. Most of my work revolves around Laravel, PHP, and Flutter, with a growing interest in Linux, containerization, and automation.
 
+I'm a developer who enjoys figuring things out, learning by building, and making software that is actually useful.
 
----
-
-### 🚀 About Me
-Hey everyone! I'm Yosua Gerrard Ferdinand, a ordinary guy with a deep passion for Game Development & Software Engineering. Thanks to modern technology, especially YouTube (big shoutout! 📺). I've been able to teach myself programming and explore the world of development.
-
-Currently, I'm diving deeper into JavaScript, Dart, Java, and PHP, constantly pushing my skills to the next level. One of my proudest experiences was participating in the 40 Game Project, where I contributed alongside other talented developers. I'm always eager to learn, build, and create something awesome!
+[Portfolio](https://portfolio-yosuaa.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yosuagerrard) · [Email](mailto:yosuagerrardferdinand@gmail.com)
 
 ---
 
+## A little about me
 
+- 💻 Worked on production web applications and online psychological testing platforms.
+- 📱 Developed educational mobile games with Flutter.
+- 🛠️ Exploring DevOps through Linux administration, Docker, and Ansible.
+- 🧠 Interested in backend logic, frontend implementation, and how everything fits together.
+- 📚 Always learning something new, usually by building a project around it.
 
-### 🛠️ Tech Stack & Experience
-#### **Languages:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-556096?logo=php&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+## Tech stack
 
-#### **Web Development:**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-f04235?logo=laravel&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+**Languages & Web**
 
-#### **Mobile Development:**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### **Databases:**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+**Mobile Development**
 
-#### **What I've Been Up To! 🧑‍💻**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-I've had a few cool gigs that let me put these skills to use:
+**DevOps & Tools**
 
-* **Semi-Full Stack Frontender at PT Berbinar Insightful Indonesia:** I spent a year rocking the frontend, mostly with **Laravel** as the main framework. Honestly, sometimes I had to sneak into the backend when needed—so yeah, you could call me a **semi-full stack** dev! 😜
-* **Game Dev Contractor for Solu Filantropi Teknologi:** I got a 4-month contract to build an **educational game** using **Flutter** and **Dart**. It was a blast turning learning into something fun and interactive.
-* **Personal Projects:** I have a bunch of cool **personal portfolio projects** I've been working on, which you guys can totally check out!
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Honestly, I'm still on the journey to leveling up my skills every single day. So, seriously, hit me up! I'm always down to **collaborate** on a project or just **learn together**!
+**Mobile Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**DevOps & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Things I've built
+
+### Face Recognition Attendance System
+A school attendance system designed to automate check-ins using facial recognition, with Laravel handling backend logic and database operations.
+
+### Educational Game Development
+An interactive mobile learning application built with Flutter, focused on making educational content more engaging.
+
+### Online Pharmacy Platform
+A web-based pharmacy platform built with Laravel and Tailwind CSS, featuring product browsing, inventory management, and checkout workflows.
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vero57&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Yosua's GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vero57&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vero57&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vero57&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+</p>
+
+## Beyond the code
+
+I believe the best way to learn software development is to build things, break them, understand why they broke, and try again. That's how I approach new technologies and projects.
+
+I'm always open to learning from other developers, collaborating on interesting ideas, and building something meaningful.
 
 ---
 
-### 🔢 Languages Graph
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%; height: 100px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vero57&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2"
-       style="width: 80%; height: auto;" alt="languages graph" />
-</div>
-
----
-
-### 🎯 Currently Learning
-- **Game Development** 🎮 (Exploring Unity, Unreal Engine, Godot Engine, Roblox Studio, 3D Modeling with Blender)
-- **Web Development** 🌐 (Improving React, Next.js, Laravel, Databases)
-- **Mobile Development** 📱 (Building apps with Flutter & Dart)
-
----
-
-### 📬 Connect With Me!
-- Discord: lululeley
-- Gmail: yosuagerrad@gmail.com
-- Instagram: @yosuagerrard_
-
----
-
-### 😹 Honorable Mention
-<div align="center" style="width: 10;">
-  <img src="https://i.imgur.com/Jdx8op0.png" alt="foto"  width="45%">
-</div>
-
----
-
-🚀 Always open to collaborating on exciting projects! Let's build something amazing together. 😃
-
-
-
-
+<p align="center">
+  <i>Building, learning, and getting a little better with every commit.</i>
+</p>
