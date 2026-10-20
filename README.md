@@ -1,5 +1,7 @@
 # Hey, I'm Yosua 👋
 
+<img src="https://i.pinimg.com/736x/62/fc/bb/62fcbb98080890af3a928f22b375d4f0.jpg">
+
 ### Software Developer · Web & Mobile Applications · DevOps Enthusiast
 
 I build web applications, mobile apps, and tools that solve real problems. Most of my work revolves around Laravel, PHP, and Flutter, with a growing interest in Linux, containerization, and automation.
